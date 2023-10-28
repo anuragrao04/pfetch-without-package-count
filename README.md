@@ -23,6 +23,10 @@ picture"!
 <br>
 <br>
 
+## What This Fork Does Different
+
+The Package List was taking a significant amount of time to load. This fork removes that. This was especially causing trouble when `pfetch` was in a `.shrc`
+
 ## OS support
 
 - **Linux**
